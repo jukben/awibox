@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=awibox" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=awibox&show_icons=true&include_all_commits=true" />
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=awibox&hide=html,css" />
 </div>
 
