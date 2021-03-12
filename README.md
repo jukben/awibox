@@ -1,9 +1,10 @@
 ### Hi there 👋
-
-<div>
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=awibox&show_icons=true&include_all_commits=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awibox&layout=compact&langs_count=8" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=awibox&show_icons=true&include_all_commits=true" alt="Andrei's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awibox&layout=compact&langs_count=8" />
+</a>
 
 <!--
 **awibox/awibox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
