@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![https://github-readme-stats.vercel.app/api?username=awibox](https://github-readme-stats.vercel.app/api?username=awibox)
+![https://github-readme-stats.vercel.app/api?username=awibox]()
+<div>
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=awibox" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=awibox&hide=html,css" />
+</div>
 
 <!--
 **awibox/awibox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
