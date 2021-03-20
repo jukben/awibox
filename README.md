@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/awibox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=awibox&show_icons=true&include_all_commits=true&count_private=true" alt="Andrei's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=awibox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Andrei's github stats" />
 </a>
 <a href="https://github.com/awibox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awibox&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awibox&layout=compact&langs_count=8&hide_border=true" />
 </a>
 
 <!--
